@@ -16,11 +16,11 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/MH-Spam-Bot)
 
-# FEATURES
+# 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝙼𝙷 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃
 
    - 𝙳𝙴𝙿𝙻𝙾𝚈 𝚄𝙿𝚃𝙾 𝟹𝟶 𝙱𝙾𝚃𝚂 𝙰𝚃 𝙰 𝚂𝙰𝙼𝙴 𝚃𝙸𝙼𝙴
 
-   - 𝙵𝙰𝚂𝚃 𝙰𝙽𝙳 𝙴𝙵𝙵𝙸𝙲𝙸𝙴𝙽𝚃
+   - 𝙼𝙾𝙽𝙴𝚈 𝙷𝙴𝙸𝚂𝚃 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃 𝙵𝙰𝚂𝚃 𝙰𝙽𝙳 𝚂𝚃𝚁𝙾𝙽𝙶
 
    - REPLYRAID , RAID PLUGIN , HANDLER *
 
