@@ -1,7 +1,7 @@
 {
-  "name": "HYPER-MULTI-SPAM-BOT",
-  "description": "A POWERFULL AND FAST SPAM BOT @ITS_KING_HYPER .",
-  "logo": "",
+  "name": "MH-SPAM-BOT",
+  "description": "A POWERFULL AND FAST SPAM BOT MADE BY @PROFESSOR_AGORA.",
+  "logo": "https://te.legra.ph/file/ce8b8e62cd807f75a1653.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -169,8 +169,8 @@
         "required": true
       },
       "SUDO": {
-        "description": "𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁𝚂 𝙸𝙳",
-        "value": "1259883302",
+        "description": "𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁𝚂 𝙸𝙳 𝚂𝙴𝙿𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚂𝙿𝙰𝙲𝙴",
+        "value": "2105506225",
         "required": true
       }
   },
