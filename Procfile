@@ -1,1 +1,1 @@
-worker: python3 HYPER.py
+worker: python3 MH-Spam-Bot.py
