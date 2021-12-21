@@ -1,7 +1,9 @@
 # 𝙈𝙃-𝙎𝙋𝘼𝙈-𝘽𝙊𝙏
 
 #### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 30 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
-### SUDO HANDLER * plugins like (*ping), (*bigspam) , (*raid) ,(*replyraid) and more
+### SUDO HANDLER 
+### * plugins like (*ping), 
+### aa (*bigspam) , (*raid) ,(*replyraid) and more
 ## [𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑](t.me/Professor_agora)
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 
 
-## 🚀 Deploy on Heroku 
+## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/MH-Spam-Bot)
 
@@ -18,7 +20,7 @@
 
    - 𝙳𝙴𝙿𝙻𝙾𝚈 𝚄𝙿𝚃𝙾 𝟹𝟶 𝙱𝙾𝚃𝚂 𝙰𝚃 𝙰 𝚂𝙰𝙼𝙴 𝚃𝙸𝙼𝙴
 
-   - 𝖥𝖠𝖲𝖳 𝖠𝖭𝖣 𝖤𝖥𝖥𝖨𝖢𝖨𝖤𝖭𝖳
+   - 𝙵𝙰𝚂𝚃 𝙰𝙽𝙳 𝙴𝙵𝙵𝙸𝙲𝙸𝙴𝙽𝚃
 
    - REPLYRAID , RAID PLUGIN , HANDLER *
 
@@ -30,4 +32,5 @@
    - 𝗝𝗢𝗜𝗡 [𝙼𝙷𝚄𝙱 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/MM_USERBOT) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
 ## Credits
-   - Thanks to [𝙼𝙷𝚄𝙱 𝚂𝙿𝙰𝙼 ](https://t.me/MM_UB_SPAM).
+   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝚂𝚄𝙹𝙰𝙻](https://t.me/toxic_than_toxiest)
+   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙰𝙶𝙾𝚁𝙰](https://t.me/prof_agora)
