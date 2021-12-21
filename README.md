@@ -2,7 +2,7 @@
 
 #### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 30 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
 ### SUDO HANDLER * plugins like (*ping), (*bigspam) , (*raid) ,(*replyraid) and more
-##   - [𝙋𝙍𝙊𝙁𝙀𝙎𝙎𝙊𝙍](https://t.me/PROFESSOR_AGORA)
+## [𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑](t.me/Professor_agora)
 
 <p align="center">
   <img src="https://telegra.ph/file/ce8b8e62cd807f75a1653.jpg">
@@ -13,13 +13,6 @@
 ## 🚀 Deploy on Heroku 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/MH-Spam-Bot)
-
-## String Session FOR  BOT AND IDS 
-
-
-   - BOT STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@hyperop6666/HYPER-SPAM-BOT-REPL#main.py)
-   - IDS STRING [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@hyperop6666/HYPER-REPL#main.py)
-
 
 # FEATURES
 
