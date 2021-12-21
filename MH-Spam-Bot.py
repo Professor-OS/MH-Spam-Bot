@@ -141,10 +141,10 @@ async def start_yukki():
             await idk.start()
             botme = await idk.get_me()
             await idk(functions.channels.JoinChannelRequest(channel=""))
-            await idk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await idk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await idk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await idk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
+            await idk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await idk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await idk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await idk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -167,10 +167,10 @@ async def start_yukki():
             print("Booting Up The Client 2")
             await ydk.start()
             await ydk(functions.channels.JoinChannelRequest(channel=""))
-            await ydk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
             botme = await ydk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -195,10 +195,10 @@ async def start_yukki():
             print("Booting Up The Client 3")
             await  wdk.start()
             await wdk(functions.channels.JoinChannelRequest(channel=""))
-            await wdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -223,11 +223,11 @@ async def start_yukki():
             print("Booting Up The Client 4")
             await hdk.start()
             await hdk(functions.channels.JoinChannelRequest(channel=""))
-            await hdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
             
-            await hdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@MM_USERBOT"))
             botme = await hdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -1805,7 +1805,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f" ʜʏᴘᴇʀ sᴘᴀᴍ ʙᴏᴛs !\n`{ms}` ms{ALIVE_NAME} ")
+        await event.edit(f" MH-Spam-Bot!\n`{ms}` ms{ALIVE_NAME} ")
 
 
 
@@ -2016,12 +2016,12 @@ async def help(e):
         
 text = """
 
-💥💥 𝗛𝗬𝗣𝗘𝗥 𝗠𝗨𝗟𝗧𝗜 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 💥💥💥
-💥𝗕𝗬 @ITS_KING_HYPER 💥"""
+💥💥 𝗠𝗢𝗡𝗘𝗬 𝗛𝗘𝗜𝗦𝗧 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 💥💥💥
+💥𝗕𝗬 @PROFESSOR_AGORA 💥"""
 
 print(text)
 print("")
-print("𝗛𝗬𝗣𝗘𝗥 𝗠𝗨𝗟𝗧𝗜 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗥𝗘𝗔𝗗𝗬")
+print("𝗛𝗬𝗣𝗘𝗥 𝗔𝗠 𝗕𝗢𝗧 𝗥𝗘𝗔𝗗𝗬")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
