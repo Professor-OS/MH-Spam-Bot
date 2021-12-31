@@ -29,8 +29,8 @@
 
 
 ## SUPPORT GROUP
-   - 𝗝𝗢𝗜𝗡 [𝙼𝙷𝚄𝙱 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/MM_USERBOT) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
+   - 𝗝𝗢𝗜𝗡 [𝙼𝙷𝚄𝙱 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/MH_USERBOT) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
 ## Credits
    - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝚂𝚄𝙹𝙰𝙻](https://t.me/toxic_than_toxiest)
-   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙰𝙶𝙾𝚁𝙰](https://t.me/prof_agora)
+   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙰𝙶𝙾𝚁𝙰](https://t.me/agora_professor)
