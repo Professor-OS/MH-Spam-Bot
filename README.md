@@ -7,7 +7,7 @@
 ## [𝗔𝗚𝗢𝗥𝗔 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥](t.me/Professor_agora)
 
 <p align="center">
-  <img src="https://telegra.ph/file/ce8b8e62cd807f75a1653.jpg">
+  <img src="https://te.legra.ph/file/a7667fd76685907f87b31.jpg">
 </p>
 
 
