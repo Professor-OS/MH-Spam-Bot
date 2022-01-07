@@ -1,7 +1,7 @@
 {
-  "name": "MH-SPAM-BOT",
+  "name": "AGORA GANGSTER",
   "description": "A POWERFULL AND FAST SPAM BOT MADE BY @AGORASWAMY_PROFESSOR.",
-  "logo": "https://te.legra.ph/file/ce8b8e62cd807f75a1653.jpg",
+  "logo": "https://te.legra.ph/file/a7667fd76685907f87b31.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -159,12 +159,12 @@
         "required": false
       },
       "API_ID": {
-        "description": "Telethon String Session",
+        "description": "My.telegram.org/auth",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Api Hash",
+        "description": "My.telegram.org/auth",
         "value": "",
         "required": true
       },
