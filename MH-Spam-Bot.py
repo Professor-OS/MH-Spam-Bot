@@ -1031,7 +1031,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
-                await event.edit("ಸ್ಥಿತಿಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಯಿಸಲಾಗಿದೆ")
+                await event.edit("STATUS CHANGED SUCESSFULLY")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1075,11 +1075,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = yukki[0]
-            text = "ಸೇರಿಕೊಳ್ಳು..."
+            text = "RUKK BC ARAH HU..."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("ಕನ್ನಡ ಹೋರಾಟಗಾರರು ಸಿದ್ಧರಾಗಿದ್ದಾರೆ")
+                await event.edit("HA BHAI AB BOL KISKA FAADNA HAI")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1124,11 +1124,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             bc = yukki[0]
-            text = "ಸೇರಿಕೊಳ್ಳು...."
+            text = "RUK BC ARAH HU....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("ಕನ್ನಡ ಹೋರಾಟಗಾರರು ಸಿದ್ಧರಾಗಿದ್ದಾರೆ")
+                await event.edit("AB BOL BHAI KISKA FAADU")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1174,11 +1174,11 @@ async def _(e):
         if len(e.text) > 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "ನಿರ್ಗಮಿಸುವ ಕನ್ನಡ ಹೋರಾಟಗಾರರು....."
+            text = "GANGSTERS ARAHE HAI....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("ಕನ್ನಡ ಹೋರಾಟಗಾರರು ಯಶಸ್ವಿಯಾಗಿ ನಿರ್ಗಮಿಸಿದರು")
+                await event.edit("AB KIS BAAR AGORA BHAI KI SARKAR")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1559,7 +1559,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ದಾಳಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+            text = "AB REPLY KAR MADARCHOD"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1569,7 +1569,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ದಾಳಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+            text = "GAAND MAI DUM HAI THO REPLY KAR MADARCHOD"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1624,7 +1624,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "ದಾಳಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+            text = "AB TERR BEHAN KR BAARI"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1635,7 +1635,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "ದಾಳಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+            text = "AB TERE BEHAN K BAARI HAI"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1756,7 +1756,7 @@ async def get_users(event):
             error = str(e)
             f = f + 1
     return await event.edit(
-        f"**ಟರ್ಮಿನಲ್ ಮುಗಿದಿದೆ** \n\n•ಯಶಸ್ವಿಯಾಗಿ ಆಹ್ವಾನಿಸಲಾಗಿದೆ`{s}` people \n• failed to invite `{f}` people"
+        f"**TERMINAL COMPLETED** \n\n•SUCCESSFULLY INVITED`{s}` people \n• failed to invite `{f}` people"
     )
 
 
@@ -1805,7 +1805,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f" ಹೆಮ್ಮೆಯ ಕನ್ನಡಿಗ\n`{ms}` ms{ALIVE_NAME} ")
+        await event.edit(f" AGORA GANGSTERS\n`{ms}` ms{ALIVE_NAME} ")
 
 
 
@@ -1844,7 +1844,7 @@ async def ping(e):
 @boy.on(events.NewMessage(incoming=True, pattern=r"\*restart"))
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = "ಮರುಪ್ರಾರಂಭಿಸಲಾಗಿದೆ\n\nPlease wait till it reboots..."
+        text = "RUKK REDBULL PI RAH HU\n\nPlease wait till it reboots..."
         await e.reply(text, parse_mode=None, link_preview=None )
         try:
             await idk.disconnect()
